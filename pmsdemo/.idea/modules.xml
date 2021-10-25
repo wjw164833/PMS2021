@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../pms-admin/pms-admin.iml" filepath="$PROJECT_DIR$/../pms-admin/pms-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pms-backup/pms-backup.iml" filepath="$PROJECT_DIR$/../pms-backup/pms-backup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pms-common/pms-common.iml" filepath="$PROJECT_DIR$/../pms-common/pms-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pms-consumer/pms-consumer.iml" filepath="$PROJECT_DIR$/../pms-consumer/pms-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pms-core/pms-core.iml" filepath="$PROJECT_DIR$/../pms-core/pms-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pms-hystrix/pms-hystrix.iml" filepath="$PROJECT_DIR$/../pms-hystrix/pms-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pms-monitor/pms-monitor.iml" filepath="$PROJECT_DIR$/../pms-monitor/pms-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pms-pom/pms-pom.iml" filepath="$PROJECT_DIR$/../pms-pom/pms-pom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pms-producer/pms-producer.iml" filepath="$PROJECT_DIR$/../pms-producer/pms-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pms-producer2/pms-producer2.iml" filepath="$PROJECT_DIR$/../pms-producer2/pms-producer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pms-zuul/pms-zuul.iml" filepath="$PROJECT_DIR$/../pms-zuul/pms-zuul.iml" />
+    </modules>
+  </component>
+</project>

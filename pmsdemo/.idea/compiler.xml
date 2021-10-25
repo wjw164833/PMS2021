@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pms-producer2" />
+        <module name="pms-producer" />
+        <module name="pms-common" />
+        <module name="pms-zuul" />
+        <module name="pms-admin" />
+        <module name="pms-monitor" />
+        <module name="pms-core" />
+        <module name="pms-consumer" />
+        <module name="pms-hystrix" />
+        <module name="pms-backup" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="pms-admin" target="1.8" />
+      <module name="pms-backup" target="8" />
+      <module name="pms-common" target="1.5" />
+      <module name="pms-consumer" target="1.8" />
+      <module name="pms-core" target="7" />
+      <module name="pms-hystrix" target="1.8" />
+      <module name="pms-monitor" target="8" />
+      <module name="pms-pom" target="1.5" />
+      <module name="pms-producer" target="1.8" />
+      <module name="pms-producer (1)" target="1.8" />
+      <module name="pms-producer1" target="1.8" />
+      <module name="pms-producer2" target="1.8" />
+      <module name="pms-zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="pms-admin" options="-parameters" />
+      <module name="pms-backup" options="-parameters" />
+      <module name="pms-consumer" options="-parameters" />
+      <module name="pms-hystrix" options="-parameters" />
+      <module name="pms-monitor" options="-parameters" />
+      <module name="pms-producer" options="-parameters" />
+      <module name="pms-producer (1)" options="-parameters" />
+      <module name="pms-producer1" options="-parameters" />
+      <module name="pms-producer2" options="-parameters" />
+      <module name="pms-zuul" options="-parameters" />
+    </option>
+  </component>
+</project>
